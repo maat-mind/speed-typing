@@ -1,4 +1,4 @@
-# speed-typing
+# ⌨🔥 speed-typing
 This project was built with vanilla javascript for practicing DOM, API REST done step by step following a video tutorial.
 
 # demo
